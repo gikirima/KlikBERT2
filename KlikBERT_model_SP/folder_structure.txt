@@ -1,0 +1,10 @@
+klikbert_model/
+├── config.json
+├── pytorch_model.bin
+├── tokenizer_config.json
+├── tokenizer.json
+├── vocab.txt
+├── special_tokens_map.json
+├── README.md
+├── modeling_klikbert.py
+└── .gitattributes
