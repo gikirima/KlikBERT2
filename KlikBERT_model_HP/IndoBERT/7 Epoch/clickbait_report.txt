@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+ exaggeration       0.93      0.96      0.94      1156
+   misleading       0.99      0.98      0.99      1179
+non clickbait       0.88      0.88      0.88      1220
+      teasing       0.89      0.87      0.88      1197
+
+     accuracy                           0.92      4752
+    macro avg       0.92      0.92      0.92      4752
+ weighted avg       0.92      0.92      0.92      4752

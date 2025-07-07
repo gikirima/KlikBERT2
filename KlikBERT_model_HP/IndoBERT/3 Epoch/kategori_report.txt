@@ -1,0 +1,15 @@
+               precision    recall  f1-score   support
+
+       bisnis       0.90      0.88      0.89       497
+entertainment       0.85      0.77      0.81       294
+    kesehatan       0.96      0.92      0.94       620
+     kriminal       0.94      0.93      0.94       813
+    lifestyle       0.86      0.90      0.88       699
+   lingkungan       0.90      0.93      0.92       310
+      politik       0.95      0.95      0.95       686
+        sport       0.98      0.99      0.98       596
+    teknologi       0.83      0.88      0.85       237
+
+     accuracy                           0.92      4752
+    macro avg       0.91      0.91      0.91      4752
+ weighted avg       0.92      0.92      0.92      4752
